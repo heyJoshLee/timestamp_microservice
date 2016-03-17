@@ -3,6 +3,9 @@ body {
   font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
 }
 
-a {
-  color: #00B7FF;
+.italics {
+  display: inline-block;
+  font-size: 24px;
+  font-style: italic;
+  background-color: #e4ea9d;
 }
